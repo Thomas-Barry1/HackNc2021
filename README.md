@@ -1,7 +1,7 @@
 # HackNc2021: Climate Game
 
 ## Description
-The concept for the game was to create a city-building game with a heavy emphasis on building a sustainable future. It was meant to track environmental damage in addition to the settlement's economic well-being, and though it would reward initial investments in nonrenewables, players would eventually realize that if they do not transition their settlement will face decline.
+The concept for the game was to create a city-building game with a heavy emphasis on building a sustainable future. It was meant to track environmental damage in addition to the settlement's economic well-being, and though it would reward initial investments in nonrenewables, players would eventually realize that if they do not transition to renewable energy sources, their settlement will face decline.
 
 
 ## Using the Project
