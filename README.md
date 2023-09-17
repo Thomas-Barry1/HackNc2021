@@ -5,5 +5,5 @@ The concept for the game was to create a city-building game with a heavy emphasi
 
 
 ## Using the Project
-Some key components of the project are still complete, but to use it as-is the project could be run in the Unity editor. Scene 2 is the up-to-date scene which holds the main map.
+Some key components of the project are still not complete, but to use it as-is the project could be run in the Unity editor. Scene 2 is the up-to-date scene which holds the main map.
 
